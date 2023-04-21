@@ -12,3 +12,5 @@ This project's goal is to promote the idea of automating everyday operations in 
 The architecture of the proposed solution is depicted in the figure below.
  
  ![thearchit](./images/the%20arcitect.png)
+
+ ## Step 1 -Install Jenkins Server
