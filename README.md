@@ -16,4 +16,4 @@ The architecture of the proposed solution is depicted in the figure below.
  ## Step 1 -Install Jenkins Server
  Launch an AWS EC2 server based on Ubuntu Server and you can give it any name you like.
 
-Firstly
+Firstly,secondly
