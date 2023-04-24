@@ -136,4 +136,13 @@ Run the following commands after connecting your NFS instance and opening the co
 
 Return to your git repository after this is finished and create a new commit. Next, look for a new build in your Jenkins. If successful, an automatic transfer of the artifact file to the `/mnt/apps` directory will take place.
 
+![update](./images/upate%20projct.png)
+
+Congratulations! You have just finished a continuous integration with Jenkins if you are able to see the output similar to the one above.
+
+Check the `README.MD` file on your NFS server by connecting through SSH or PuTTY and making sure the files in `/mnt/apps` have been updated.
+
+readme.md in `/mnt/apps` The task is successful if you can see the changes you had previously made in your GitHub.
+
+#CONGRATULATIONS
 
